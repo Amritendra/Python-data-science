@@ -35,7 +35,7 @@ print(rev_name)
 mn_rev=n[6:-8][::-1]
 print(mn_rev)
 
-#every even infdex character
+#every even index character
 even_n=n[::2]
 
 #every odd index chgarcter

@@ -1,5 +1,5 @@
 from turtle import*
-speed(0)
+speed(1)
 bgcolor("black")
 pensize(10)
 pencolor("red")
