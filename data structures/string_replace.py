@@ -1,5 +1,5 @@
 msg="count the occurance of vowel in string"
-
+#simple replacement
 print(msg.replace("o","a"))
 
 #substring replacement
