@@ -1,0 +1,10 @@
+x={'fan','iron','cooler','ac'}
+y={'mouse','emersion','plug','lamp','ac'}
+b=x|y
+print(x|y)
+print(x-y)
+print(x&y)
+print(x^y)
+print(b.isdisjoint(x))
+print(y.issubset(x))
+print(x.issuperset({"iron",'ac'}))
