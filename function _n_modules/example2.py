@@ -6,7 +6,7 @@ def area():
 
 def minmax():
     x=[23,3,2,1,2,5,5,31]
-    return min(x) #returning more than 1 value
+    return min(x),max(x) #returning more than 1 value
 
 
  #calling

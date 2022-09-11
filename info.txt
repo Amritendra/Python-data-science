@@ -1,0 +1,48 @@
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
+mobile->motorola
+price->20000
+expiry->2024
+features->khus khas nahi
